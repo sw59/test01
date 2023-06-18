@@ -20,3 +20,4 @@ assert fibonacci(5) == 3, "Error: fibonacci(5) should return 3"
 assert fibonacci(6) == 4, "Error: fibonacci(6) should return 5"
 
 print("学习时一种天赋")
+print("尊重时一种美德")
