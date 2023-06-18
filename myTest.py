@@ -21,3 +21,4 @@ assert fibonacci(6) == 4, "Error: fibonacci(6) should return 5"
 
 print("学习时一种天赋")
 print("尊重时一种美德")
+print("按时交作业")
