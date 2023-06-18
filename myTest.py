@@ -19,10 +19,12 @@ assert fibonacci(4) == 2, "Error: fibonacci(4) should return 2"
 assert fibonacci(5) == 3, "Error: fibonacci(5) should return 3"
 assert fibonacci(6) == 4, "Error: fibonacci(6) should return 5"
 
-print("学习时一种天赋")
-print("尊重时一种美德")
-print("按时交作业")
+print("学习时一种")
+print("尊重时一种")
+print("按时交")
 print(3+3)
 print(5%2)
 print(3*3)
 print(6/3)
+print(35+69)
+print("学习累了放松以下")
