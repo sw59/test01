@@ -18,3 +18,5 @@ assert fibonacci(3) == 1, "Error: fibonacci(3) should return 1"
 assert fibonacci(4) == 2, "Error: fibonacci(4) should return 2"
 assert fibonacci(5) == 3, "Error: fibonacci(5) should return 3"
 assert fibonacci(6) == 4, "Error: fibonacci(6) should return 5"
+
+print("学习时一种天赋")
